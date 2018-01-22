@@ -1,0 +1,45 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+#watcher {
+	width:200px;
+	height:200px;
+	margin-left: auto;
+	background: #00B7FF;
+
+}
+
+#shorten {
+  width: 91px;
+  height: 37px;
+  border-radius: 3.2px;
+  border: solid 0.8px #1f233e;
+  background-color: inherit;
+  margin-top: 48px;
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #ffffff;
+  margin-right: -3px;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+ul {
+	list-style-type: none;
+	width: auto;
+	height: 200px;
+}
+
+li {
+	margin-left: 100px;
+	float: left;
+}
